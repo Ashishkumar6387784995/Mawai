@@ -1,0 +1,99 @@
+		
+		h1{
+            font-size: 60px;
+            }
+            p{
+                font-size: 15px;
+            }
+            h2
+            {
+             color: white;
+             font-size: 30px;
+             margin-left: 160px;
+            }
+    
+            h5{
+                color: yellow;
+                font-size: 25px;
+            }
+    
+            .btnicon {
+      color: white;
+      text-align: center;
+      font-size:15px;
+      margin: 4px 2px;
+    }
+    
+    .btn {
+      background-color: white;
+      border: none;
+      color: black;
+      padding: 16px 32px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      border-radius: 10px;
+      opacity: 1;
+      transition: 0.3s;
+    }
+    .btn-addmission{
+      background-color: #ffdb4d;
+      border: none;
+      color: whitesmoke;
+      padding: 16px 32px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 1;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+    .btn-1{
+        border-radius: 10px;
+      }
+    
+    .btn:hover {opacity: 0.6}
+    
+        .btn-1{
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 1;
+      transition: 0.3s;
+    }
+    
+    .btn:hover {opacity: 0.6}
+    
+    .extra{
+        color: white;
+    }
+    a:link, a:visited {
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    .img1{
+      margin-left: 95px;
+      margin-bottom: 75px;
+      height: 550px;
+      width: 550px;
+    }
+    
+.contact_form-container button{
+    border:none;
+    background-color:#6bd1bd;
+    color:#fff;
+    font-size:15px;
+    padding:15px 45px;
+    border-radius:30px;
+    text-transform:uppercase;
+    font-weight:700
+}
+
+
